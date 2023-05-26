@@ -5,7 +5,7 @@ import {
   faLocationDot,
   faShoppingBag,
 } from "@fortawesome/free-solid-svg-icons";
-import NewProduct from "./NewProduct";
+import NewProduct from "./NewProduct0";
 import Products from "./Products";
 import styles from "../styles/Home.module.css";
 

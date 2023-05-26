@@ -1,6 +1,6 @@
 import styles from "../styles/NewProduct.module.css";
 
-function NewProduct() {
+function NewProduct0() {
   return (
     <div className={styles.main}>
       <div className={styles.divColumn}>
@@ -15,4 +15,4 @@ function NewProduct() {
   );
 }
 
-export default NewProduct;
+export default NewProduct0;
