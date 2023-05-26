@@ -1,4 +1,4 @@
-import styles from "../styles/NewProduct.module.css";
+import styles from "../styles/NewProduct0.module.css";
 
 function NewProduct0() {
   return (
