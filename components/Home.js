@@ -1,8 +1,13 @@
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faBars, faUser, faLocationDot, faShoppingBag } from '@fortawesome/free-solid-svg-icons';
-import NewProduct from './NewProduct';
-import Products from './Products';
-import styles from '../styles/Home.module.css';
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faBars,
+  faUser,
+  faLocationDot,
+  faShoppingBag,
+} from "@fortawesome/free-solid-svg-icons";
+import NewProduct from "./NewProduct";
+import Products from "./Products";
+import styles from "../styles/Home.module.css";
 
 function Home() {
   return (
