@@ -1,7 +1,12 @@
-import Home from '../components/Home';
-
+import Home from "../components/Home";
+import SmallScreenModal from "../components/SmallScreenModal";
 function Index() {
-  return <Home />;
+  return (
+    <>
+      <SmallScreenModal />
+      <Home />
+    </>
+  );
 }
 
 export default Index;
